@@ -1,0 +1,9 @@
+{
+    "departureTime": "14:30",
+    "platform": 3,
+    "seatNumber": 10,
+    "destination": "Berlin",
+    "origin": "Warsaw",
+    "date": "2024-05-23",
+    "train": "IC3110"
+}

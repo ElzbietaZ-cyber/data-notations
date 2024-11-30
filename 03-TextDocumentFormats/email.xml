@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emails>
+    <email>
+        <sender>john.doe@example.com</sender>
+        <recipient>jack.smith@example.com</recipient>
+        <subject>School Project</subject>
+        <message>Hello, text me about the project ASAP. Best wishes, John</message>
+        <timestamp>2024-11-30T14:45:00Z</timestamp>
+    </email>
+</emails>
